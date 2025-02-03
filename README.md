@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a **Machine Learning Enthusiast** passionate a
 
 - **Anomaly Detection System**: Developed systems to detect anomalies in transaction data and system logs.
 - **Fraud Detection Algorithms**: Designed programs for fraud detection and file section algorithms.
-- **Cardiovascular Disease Detection**: Built an ML model during my academic career.
+- **Cardiovascular Disease Detection**: Published a research paper on this project in journals and conferences
 - **Stutter Detection System**: Published a research paper on this project in journals and conferences.
 
 ---
